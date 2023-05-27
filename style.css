@@ -1,0 +1,30 @@
+body{
+    background-color: hotpink;
+}
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: oblique, italic;
+    color: cyan;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: unset;
+    color: aquamarine
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: aqua;
+    border-radius: 10px;
+    border-style: dashed;
+}
+img{
+   width: 500px;
+    height: 400px;
+    border-radius: 5px;
+    padding: auto;
+    margin: auto;
+    box-shadow: auto;
+}
